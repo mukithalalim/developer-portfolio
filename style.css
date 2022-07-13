@@ -45,12 +45,12 @@ p {
 }
 
 .top-banner {
-    background-image: url(/Images/top-banner.png);
+    background-image: url(Images/top-banner.png);
     background-repeat: no-repeat;
 }
 
 .dream-big {
-    background-image: url(/Images/dream-bg.png);
+    background-image: url(Images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -72,7 +72,7 @@ p {
 }
 
 .experience-area {
-    background-image: url(/Images/exp-bg.png);
+    background-image: url(Images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
